@@ -12,7 +12,7 @@ Light-Mode On
 Quiz preview
 ![quizz](https://github.com/user-attachments/assets/fda3762e-deb9-4495-9924-a2e38bd9f71d)
 
-confetti animation when got 10/10 score confetti animation
+confetti animation when got 10/10 score 
 ![10 of 10 score](https://github.com/user-attachments/assets/e169d57e-5b63-483a-bc91-b5512c5972c6)
 
 #Output in Smartphones :
