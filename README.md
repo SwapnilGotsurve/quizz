@@ -3,23 +3,28 @@
 
 ## Output in Laptop / PC🖥️💻:
 **Dark-Mode On**
-![dark1](https://github.com/user-attachments/assets/ba0d1df1-6303-47d7-a9ad-8e47420e7dd3)
-![dark2](https://github.com/user-attachments/assets/a371f374-1619-48b0-9fcb-b27008c2e1a9)
-![quizz](https://github.com/user-attachments/assets/1ac5324a-dafd-4b59-9945-25f2cb7fcac7)
+![dark1](https://github.com/user-attachments/assets/4bb76e70-3983-40da-be25-0feecda8eb61)
+![dark2](https://github.com/user-attachments/assets/ed7137af-447f-4151-a5df-677f56ad447f)
+
 
 **Light-Mode On**
-![light1](https://github.com/user-attachments/assets/e21fd599-3e0b-41ca-a8d2-1a88eca55b86)
-![light2](https://github.com/user-attachments/assets/64789e45-05b7-4910-a198-e1ab26dc5683)
-![mobile view1](https://github.com/user-attachments/assets/85919b4d-d6de-48c1-b151-6143a6f070f6)
+![light1 1](https://github.com/user-attachments/assets/f3827612-120a-4f01-9182-14c2a05f489b)
+
 
 
 **confetti animation when got 10/10 score🎉🎉** 
-![10 of 10 score](https://github.com/user-attachments/assets/f64d4330-4f81-4282-bdc3-5cf890f87d9f)
-
+![10 of 10 score](https://github.com/user-attachments/assets/762c381e-9f79-43d3-8d6c-b508f7b49120)
 
 
 ## Output in Smartphones :
-![mobile view1](https://github.com/user-attachments/assets/e3ace789-77e3-4776-90fb-7f1b899e0ae1)
+![mobile view1](https://github.com/user-attachments/assets/648b3b30-cea8-4e5e-ba52-1b4895641bde)
+
+## Quizz form 
+![question form1](https://github.com/user-attachments/assets/e0af034f-fa3d-481e-86b0-a235e1fe87a9)
+![score](https://github.com/user-attachments/assets/c2562ecc-05a2-4653-8d0a-80d35b192794)
+![rules](https://github.com/user-attachments/assets/41d898d2-2949-40ea-b780-b87ea4b2e482)
+
+![time up](https://github.com/user-attachments/assets/00dac4d0-0773-44e6-9ca3-c542fd502307)
 
 ## 1. Executive Summary
 The Quiz App project is a mobile/web-based application designed to provide users with an engaging and interactive way to test their knowledge on various topics through quizzes. The app is equipped with a user-friendly interface, multiple question formats, and a scoring system, making it suitable for users of all ages. It can be used for educational purposes, training, or entertainment.
@@ -35,6 +40,7 @@ The Quiz App project is a mobile/web-based application designed to provide users
 - **Leaderboard:** Users can compare their scores with others on a leaderboard.
 - **Progress Tracking:** Allows users to track their scores and improvement over time. After getting 10 on 10 score the confetti effect is activate using confetti animation
 - **Dark Light Mode:** Users can view the website according to your need. It makes very interactive.
+- - **User Interactive GUI:** Its increase the Users experience thorught out the GUI. 
 - 
 ## 4. Technologies Used✅
 - **Figma:** Figma for UI/UX prototyping and design . 
