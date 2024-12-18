@@ -40,8 +40,8 @@ The Quiz App project is a mobile/web-based application designed to provide users
 - **Leaderboard:** Users can compare their scores with others on a leaderboard.
 - **Progress Tracking:** Allows users to track their scores and improvement over time. After getting 10 on 10 score the confetti effect is activate using confetti animation
 - **Dark Light Mode:** Users can view the website according to your need. It makes very interactive.
-- - **User Interactive GUI:** Its increase the Users experience thorught out the GUI. 
-- 
+- **User Interactive GUI:** Its increase the Users experience thorught out the GUI. 
+  
 ## 4. Technologies Used✅
 - **Figma:** Figma for UI/UX prototyping and design . 
 - **HTML:** HTML is used for structuring the webpage. Used the Images for make more understanding.
